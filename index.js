@@ -1,0 +1,2 @@
+fizzbuzz.fizzbuzzNum(100);
+
